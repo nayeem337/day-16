@@ -1,0 +1,30 @@
+.text-orange { color: #FF4800 }
+.navbar-brand:hover { color: #FF4800}
+.bg-orange {background-color: #FF4800}
+.bg-orange:hover {background-color: #D93D00}
+.nav-link:hover {
+    background-color: #FF4800;
+    color: white;
+}
+.navbar .nav-item:hover .dropdown-menu {
+    display: block;
+}
+
+.banner-head {
+    background-image: url("../images/header.jpg");
+    min-height: 500px;
+}
+
+.card-box {
+    margin-top: 150px;
+    padding-bottom: 120px;
+}
+
+/*.banner-head:after {*/
+/*    content: '';*/
+/*    background-color: rgba(0,0,0, .6);*/
+/*    position: absolute;*/
+/*    top: 110px;*/
+/*    height: 500px;*/
+/*    width: 100%;*/
+/*}*/
